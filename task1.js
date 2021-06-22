@@ -6,9 +6,7 @@
 
 const delay = ms => {
   // Твой код
-  new Promise(resolve, reject) =>{
-	  console.log(123)
-  }
+
 };
 
 const logger = time => console.log(`Resolved after ${time}ms`);
